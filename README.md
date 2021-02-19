@@ -10,6 +10,9 @@ PR 날리세요.
 ### 고려대학교
 > [고려대학교 아마추어 천문회, KUAAA](https://www.facebook.com/KUAAA1982)
 
+### 건국대학교
+> 우주탐구회, TAURUS
+
 ### 경희대학교
 > 
 
