@@ -24,9 +24,36 @@ PR 날리세요.
 
 ### 서울대학교
 > [서울대학교 아마추어 천문회, AAA](https://www.snuaaa.net)
+ 
+### 서울과학기술대학교
+> [시리우스](https://www.facebook.com/seoultechsirius)
+
+### 서울시립대학교
+> [UOStar](https://www.facebook.com/UOStar-730232667159891/)
+
+### 성균관대학교
+> 별누리
+
+### 세종대학교
+> 별무리
+
+### 숭실대학교
+> [우주과학연구회, C.S.I.](https://www.facebook.com/ssucsi)
 
 ### 연세대학교
 > [연세대학교 아마추어 천문회, YAAA](https://www.facebook.com/YAAA1985)
+
+### 중앙대학교
+> [코스모스](https://www.instagram.com/caucosmos/)
+
+### 한성대학교
+> [별조각](https://www.facebook.com/%ED%95%9C%EC%84%B1%EB%8C%80%ED%95%99%EA%B5%90-%EB%B3%84%EC%A1%B0%EA%B0%81-642477002566674/)
+
+### 한양대학교
+> [한양천체과학연구회, HASRA](https://www.facebook.com/PageOfHASRA)
+
+### 홍익대학교
+> 개밥바라기
 
 ## 경기도
 
