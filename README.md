@@ -3,12 +3,14 @@
 ``` 
 가나다순임
 아는대로 추가함
+
+캠퍼스 구분은 지역 보면 알 수 있음
 바뀐정보/잘못된 정보 있으면 PR 날리세요.
 ```
 
 ## 서울특별시
 ### 고려대학교
-> [고려대학교 아마추어 천문회, KUAAA](https://www.facebook.com/KUAAA1982)
+> [고려대학교 아마추어 천문회(KUAAA)](https://www.facebook.com/KUAAA1982)
 
 ### 건국대학교
 > 우주탐구회, TAURUS
@@ -23,7 +25,7 @@
 > [별반](https://sogang-astronomy.github.io)
 
 ### 서울대학교
-> [서울대학교 아마추어 천문회, AAA](https://www.snuaaa.net)
+> [서울대학교 아마추어 천문회(AAA)](https://www.snuaaa.net)
  
 ### 서울과학기술대학교
 > [시리우스](https://www.facebook.com/seoultechsirius)
@@ -35,13 +37,13 @@
 > 별누리
 
 ### 세종대학교
-> 별무리
+> 별무리? (생존여부 불분명)
 
 ### 숭실대학교
-> [우주과학연구회, C.S.I.](https://www.facebook.com/ssucsi)
+> [우주과학연구회(C.S.I.)](https://www.facebook.com/ssucsi)
 
 ### 연세대학교
-> [연세대학교 아마추어 천문회, YAAA](https://www.facebook.com/YAAA1985)
+> [연세대학교 아마추어 천문회(YAAA)](https://www.facebook.com/YAAA1985)
 
 ### 중앙대학교
 > [코스모스](https://www.instagram.com/caucosmos/)
@@ -50,12 +52,25 @@
 > [별조각](https://www.facebook.com/%ED%95%9C%EC%84%B1%EB%8C%80%ED%95%99%EA%B5%90-%EB%B3%84%EC%A1%B0%EA%B0%81-642477002566674/)
 
 ### 한양대학교
-> [한양천체과학연구회, HASRA](https://www.facebook.com/PageOfHASRA)
+> [한양천체과학연구회(HASRA)](https://www.facebook.com/PageOfHASRA)
 
 ### 홍익대학교
 > 개밥바라기
 
 ## 경기도
+### 경희대학교
+> 소행성 B-612? (생존여부 불분명)
+
+### 단국대학교
+> [별사랑](https://www.instagram.com/dku_duaaa/)
+
+### 명지대학교
+> [A&P](https://www.instagram.com/mjuclub._.anp/)
+
+### 수원대학교
+> 프라나(PRANA)
+
+## 인천광역시
 
 ## 강원도
 
@@ -63,7 +78,7 @@
 ### KAIST
 > [별바라기](http://starflower.club/)
 
-## 
+
 
 ## 충청북도
 
