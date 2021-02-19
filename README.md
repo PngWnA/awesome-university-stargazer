@@ -13,7 +13,7 @@
 > [고려대학교 아마추어 천문회(KUAAA)](https://www.facebook.com/KUAAA1982)
 
 ### 건국대학교
-> 우주탐구회, TAURUS
+> 우주탐구회(TAURUS)
 
 ### 경희대학교
 > [planet-X](https://www.instagram.com/khu_planet_x/)
@@ -74,6 +74,8 @@
 > C.OB.E
 
 ## 인천광역시
+### 인하대학교
+> [별지기(IAAA)](https://www.instagram.com/iaaa_inha)
 
 ## 강원도
 ### 강릉원주대학교
@@ -82,27 +84,102 @@
 ### 강원대학교
 > [백령천문우주과학연구회](https://www.facebook.com/BWYSTAR/)
 
+### 연세대학교
+> KALPA
+
 ## 대전광역시
+### 충남대학교
+> 별누리
+
+### 한남대학교
+> 시그너스? (생존여부 불분명)
+
 ### KAIST
 > [별바라기](http://starflower.club/)
 
-
+## 세종특별자치시
+### 고려대학교
+> [별빛항해](https://www.facebook.com/KUSLSailing)
 
 ## 충청북도
+### 세명대학교
+> 미리내
+
+### 충북대학교
+> [한별](https://www.facebook.com/haanbyul/)
 
 ## 충청남도
+### 공주대학교
+> 하우리? (생존여부 불분명)
+
+### 순천향대학교
+> 별찌? (생존여부 불분명)
 
 ## 부산광역시
+### 동아대학교
+> [하늘별](https://www.facebook.com/dongaskystar/)
+ 
+### 동의대학교
+> 별나래? (생존여부 불분명)
+
+### 부경대학교
+> 플레이아데스
+
+### 부산대학교
+> [안드로메다](https://www.instagram.com/pnu_aaa/)
+
+### 인제대학교
+> 날개? (생존여부 불분명)
 
 ## 대구광역시
+### 경북대학교
+> [코스모스](https://www.instagram.com/knu_cosmos/)
+
+### 계명대학교
+> AAA? (생존여부 불분명)
+
+### 대구가톨릭대학교
+> 타키온
+ 
+### 대구대학교
+> 옥탑방
+
+### 영남대학교
+> 그리니치
 
 ## 울산광역시
+### 울산대학교
+> 주피터
 
 ## 경상북도
+### 금오공과대학교
+> [밤하늘](https://www.facebook.com/nightsky422/)
+
+### 동국대학교
+> 푸르체리마
+ 
+### 안동대학교
+> [AAA](https://www.facebook.com/AndongAmateurAstronomers/)
+
+### POSTECH
+> [별사랑](https://www.facebook.com/StarLover.Postech/)
 
 ## 경상남도
+### 경남대학교
+> 별바라기? (생존여부 불분명)
+
+### 경상대학교
+> [고나푸스(GonApus)](https://www.facebook.com/GonApus/)
+
+### 창원대학교
+> [첨성대](https://www.facebook.com/ChumsungdaeCWNU/)
 
 ## 광주광역시
+### 전남대학교
+> [별따오기](https://www.facebook.com/byeoldda/)
+
+### 조선대학교
+> 하늘사랑
 
 ## 전라북도
 
