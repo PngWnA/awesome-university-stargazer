@@ -70,9 +70,17 @@
 ### 수원대학교
 > 프라나(PRANA)
 
+### 아주대학교
+> C.OB.E
+
 ## 인천광역시
 
 ## 강원도
+### 강릉원주대학교
+> [LEPUS](https://www.facebook.com/GWNULEPUS/)
+
+### 강원대학교
+> [백령천문우주과학연구회](https://www.facebook.com/BWYSTAR/)
 
 ## 대전광역시
 ### KAIST
