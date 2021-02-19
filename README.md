@@ -14,7 +14,10 @@ PR 날리세요.
 > 우주탐구회, TAURUS
 
 ### 경희대학교
-> 
+> [planet-X](https://www.instagram.com/khu_planet_x/)
+
+### 동국대학교
+> [자연과학연구회](https://www.facebook.com/dongguknsa/)
 
 ### 서강대학교
 > [별반](https://sogang-astronomy.github.io)
